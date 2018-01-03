@@ -7,9 +7,12 @@ include: new functions to fit
 dataset (including more languages) and new data filters to improve the
 quality of the results.
  The target of the analysis is the mean edge
-length.  Optionally, the participants work can present a publishable
-article instead of a
- traditional research report.
+length.  
+
+### Defined Objectives
+* Process the datasets and create directory of files suitable for fitting non-linear regression models.
+* Understand and fit each model turn by turn and then advanced versions of each model
+* present a publishable article instead of a traditional research report.
 
 New dataset: see file readme.txt. 
 
