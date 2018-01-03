@@ -66,3 +66,7 @@ The content of the file has to be the same as the treebank files
    where n is the number of vertices of the tree, 
 K is the sum of squared degrees and D is the sum of depedency lengths (the format is similar but not the same as the materials of lab session 2). 
 
+
+## Accomplished Objectives
+* Creating of a processed directory of data files that contain metrices relevant for fitting a non-linear regression model. These metrices have to be "mean edge length" and "Second degree moment". 
+* Fitting of models 
